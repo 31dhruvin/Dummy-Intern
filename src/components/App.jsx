@@ -1,7 +1,6 @@
 import React, { useState } from 'react';
 import "../Style/style.css"
 import Navbar from './Navbar'
-
 import UserStore from '.././Store'
 
 const App = () => {
